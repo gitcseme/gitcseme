@@ -44,4 +44,4 @@
 <br />
 <img alt="gitcseme's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gitcseme&show_icons=true&hide_border=true&theme=cobalt" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcseme&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcseme&theme=cobalt)](https://github.com/gitcseme/)
