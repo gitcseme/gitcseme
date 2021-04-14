@@ -1,9 +1,9 @@
 ### Hi there, I'm Shuvo 👋
 
-## I'm a software Developer
+## I'm a software developer
 
 - 🔭 I have studied computer science and completed BSc in CSE in 2019
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning angular 9 and everything 🤣
 - ⚙️ I work with ASP.NET Core and Angular for web developing.
 - 👀 I’m looking for job as a software engineer.
 - 🏐 I love volleyball
@@ -25,7 +25,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[webdevplaylist]
 
 <br />
 <br />
@@ -33,7 +32,7 @@
 ---
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="gitcseme's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gitcseme&show_icons=true&hide_border=true" />
+<img align="left" alt="gitcseme's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gitcseme&show_icons=true&hide_border=true&theme=cobalt" />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
