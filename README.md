@@ -23,6 +23,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+<img align="left" alt="asp.net" width="26px" src="https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured-390x205.png" />
+<img align="left" alt="asp.net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="docker" width="26px" src="https://cdn.changelog.com/uploads/icons/topics/dVj/icon_large.png?v=63684545726" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
