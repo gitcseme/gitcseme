@@ -11,6 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="gitcseme | facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />](https://www.facebook.com/uvshuvo2018/)
+[<img align="left" alt="gitcseme | linkedin" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/linkedin-icon.svg" />](linkedin.com/in/md-kawsarul-alam-shuvo-090791210)
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
