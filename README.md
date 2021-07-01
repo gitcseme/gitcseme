@@ -1,11 +1,10 @@
 ### Hi there, I'm Shuvo 👋
 
-## I'm a software developer
+## Full Stack Asp.Net software engineer at ENKAIZEN
 
-- 🔭 I have studied computer science and completed BSc in CSE in 2019
-- 🌱 I’m currently learning angular 9 and everything 🤣
-- ⚙️ I work with ASP.NET Core and Angular for web developing.
-- 👀 I’m looking for job as a software engineer.
+- 🔭 I have studied computer science and completed BSc in CSE.
+- 🌱 I’m currently learning vuejs and everything 🤣
+- ⚙️ I work with ASP.NET Core and vuejs for web developing.
 - 🏐 I love volleyball
 
 ### Connect with me:
