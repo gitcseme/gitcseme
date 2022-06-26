@@ -1,9 +1,9 @@
 ### Hi there, I'm Shuvo 👋
 
-## Full Stack Asp.Net software engineer at ENKAIZEN
+## Full Stack Asp.Net software engineer at Dynamic Solution Innovators
 
 - 🔭 I have studied computer science and completed BSc in CSE.
-- 🌱 I’m currently learning vuejs and everything 🤣
+- 🌱 I’m currently learning angular and everything 🤣
 - ⚙️ I work with ASP.NET Core and vuejs for web developing.
 - 🏐 I love volleyball
 
