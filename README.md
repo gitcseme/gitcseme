@@ -3,7 +3,7 @@
 ## Full Stack ASP.NET Software Engineer
 
 - 🔭 I have studied computer science and completed BSc in CSE.
-- 🌱 I’m currently learning angular and everything 🤣
+- 🌱 I’m currently learning software engineering by practicing.
 - ⚙️ I work with ASP.NET Core and vuejs for web developing.
 - 🏐 I love volleyball
 
@@ -11,12 +11,6 @@
 
 [<img align="left" alt="gitcseme | facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />](https://www.facebook.com/uvshuvo2018/)
 [<img align="left" alt="gitcseme | linkedin" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/shuvo806/)
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
