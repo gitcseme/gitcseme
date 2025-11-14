@@ -1,6 +1,6 @@
-👋 # Hi, I'm Shuvo
+# 👋 Hi, I'm Shuvo
 
-## .NET Software Engineer | Clean Coder | Cloud-Ready Scallable Systems Builder
+## Software Engineer (.NET) | Clean Coder | Cloud-Ready Scallable Systems Builder
 
 ### I'm a Full-Stack Software Engineer with over 5 years of experience crafting scalable, maintainable, and user-centric applications using .NET, React, and Vue.
 
