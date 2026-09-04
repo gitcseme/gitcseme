@@ -2,10 +2,6 @@
      The official host (github-readme-stats.vercel.app) is currently paused.
      If cards stop loading, swap the mirror host below for another one. -->
 
-<div align="right">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgitcseme%2Fgitcseme%2Fmain%2Fassets%2Fvisitors.json&style=flat-square&cacheSeconds=3600" alt="Unique visitors"/>
-</div>
-
 # Shuvo — AI-First Full-Stack Engineer
 
 **.NET · React / Vue · Azure · Claude** — 5+ years building scalable backends and the UIs on top of them, now with an agent in the loop.
