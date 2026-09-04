@@ -3,7 +3,7 @@
      If cards stop loading, swap the mirror host below for another one. -->
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=gitcseme&style=flat-square&color=7aa2f7&label=profile+views" alt="Profile views"/>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgitcseme%2Fgitcseme%2Fmain%2Fassets%2Fvisitors.json&style=flat-square&cacheSeconds=3600" alt="Unique visitors"/>
 </div>
 
 # Shuvo — AI-First Full-Stack Engineer
@@ -13,7 +13,7 @@ I build **with** AI and I build AI: Claude Code drives my day-to-day engineering
 Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮🇳 India across SaaS, enterprise tooling, and workflow automation.
 
 <p>
-<a href="https://www.linkedin.com/in/shuvo806/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://ms-dot-net.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>&nbsp;<a href="https://github.com/gitcseme?tab=repositories"><img src="https://img.shields.io/badge/All%20repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>&nbsp;<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Built%20with-Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Built with Claude"/></a>
+<a href="https://www.linkedin.com/in/shuvo806/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://ms-dot-net.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
