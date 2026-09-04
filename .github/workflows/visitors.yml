@@ -14,9 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # The traffic API requires the "Administration: read" permission, which the
+      # built-in GITHUB_TOKEN cannot be granted (it is not a valid scope in the
+      # workflow `permissions:` block). A PAT is therefore required. See README.
+      - name: Check token
+        run: |
+          if [ -z "${{ secrets.TRAFFIC_TOKEN }}" ]; then
+            echo "::error::Secret TRAFFIC_TOKEN is not set. Create a fine-grained PAT with"
+            echo "::error::'Administration: Read-only' on this repo and add it as TRAFFIC_TOKEN."
+            exit 1
+          fi
+
       - name: Fetch traffic + accumulate unique visitors
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
         run: |
           set -euo pipefail
           gh api "repos/${GITHUB_REPOSITORY}/traffic/views" > /tmp/views.json
