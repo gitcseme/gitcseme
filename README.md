@@ -2,10 +2,6 @@
      The official host (github-readme-stats.vercel.app) is currently paused.
      If cards stop loading, swap the mirror host below for another one. -->
 
-<div align="right">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgitcseme%2Fgitcseme%2Fmain%2Fassets%2Fvisitors.json&style=flat-square&cacheSeconds=3600" alt="Unique visitors"/>
-</div>
-
 # Shuvo — AI-First Full-Stack Engineer
 
 **.NET · React / Vue · Azure · Claude** — 5+ years building scalable backends and the UIs on top of them, now with an agent in the loop.
@@ -15,57 +11,6 @@ Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮�
 <p>
 <a href="https://www.linkedin.com/in/shuvo806/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://ms-dot-net.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
-
----
-
-## 🔨 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/AIAgent">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=AIAgent&theme=tokyonight&hide_border=true" alt="AIAgent"/>
-</a>
-<p>An <b>AI agent written from scratch in C#</b> — the tool-calling loop, message history, and control flow, with no framework in the way.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/DoctorAppointmentSystem">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=DoctorAppointmentSystem&theme=tokyonight&hide_border=true" alt="DoctorAppointmentSystem"/>
-</a>
-<p>Multi-hospital appointment Web API built around <b>concurrency control and throughput</b> — contention, idempotent booking, load-tested endpoints.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/WalStore">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=WalStore&theme=tokyonight&hide_border=true" alt="WalStore"/>
-</a>
-<p>A <b>write-ahead log</b> in .NET from first principles — append-only durability, crash recovery, replay.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/UrlShortener">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=UrlShortener&theme=tokyonight&hide_border=true" alt="UrlShortener"/>
-</a>
-<p>Classic system-design build: key generation, collision handling, and fast redirects.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/OAuth-2.0">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=OAuth-2.0&theme=tokyonight&hide_border=true" alt="OAuth 2.0"/>
-</a>
-<p>End-to-end OAuth 2.0 flow in ASP.NET, consented against real Google Drive scopes.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/sort-visualizer">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=sort-visualizer&theme=tokyonight&hide_border=true" alt="sort-visualizer"/>
-</a>
-<p>Interactive TypeScript visualizer for sorting and graph-traversal algorithms — watch the algorithm run, step by step.</p>
-</td>
-</tr>
-</table>
-
-<sub>Also: <a href="https://github.com/gitcseme/TestContainers">TestContainers</a> (Docker-backed integration tests) · <a href="https://github.com/gitcseme/expense-manager">expense-manager</a> (Vue + .NET) · <a href="https://github.com/gitcseme/Design-Patterns">Design-Patterns</a> · <a href="https://github.com/gitcseme/leetCode">leetCode</a></sub>
 
 ---
 
@@ -91,8 +36,6 @@ Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮�
 <p>
   <img height="165" src="https://streak-stats.demolab.com/?user=gitcseme&hide_border=true&theme=tokyonight" alt="Contribution streak"/>
 </p>
-
-<img src="https://ghchart.rshah.org/7aa2f7/gitcseme" alt="Contribution chart" width="100%"/>
 
 ---
 
