@@ -1,55 +1,122 @@
-# 👋 Hi, I'm Shuvo
+<!-- Card/stat images use a community mirror of github-readme-stats.
+     The official host (github-readme-stats.vercel.app) is currently paused.
+     If cards stop loading, swap the mirror host below for another one. -->
 
-## Software Engineer (.NET) | Clean Coder | Cloud-Ready Scallable Systems Builder
+<div align="right">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgitcseme%2Fgitcseme%2Fmain%2Fassets%2Fvisitors.json&style=flat-square&cacheSeconds=3600" alt="Unique visitors"/>
+</div>
 
-### I'm a Full-Stack Software Engineer with over 5 years of experience crafting scalable, maintainable, and user-centric applications using .NET, React, and Vue.
+# Shuvo — AI-First Full-Stack Engineer
 
-I specialize in building robust backend systems, designing clean architectures, and delivering high‑quality solutions in collaboration with global teams. I've worked with clients across **Italy**, the **USA**, **Sweden**, and **India**, contributing to diverse domains including SaaS, enterprise tools, and workflow automation.
+**.NET · React / Vue · Azure · Claude** — 5+ years building scalable backends and the UIs on top of them, now with an agent in the loop.
+I build **with** AI and I build AI: Claude Code drives my day-to-day engineering, and I write agents from scratch to understand what's under the abstraction.
+Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮🇳 India across SaaS, enterprise tooling, and workflow automation.
 
-## 🚀 Tech Stack
+<p>
+<a href="https://www.linkedin.com/in/shuvo806/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://ms-dot-net.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+</p>
 
-- **Backend:** C# • .NET • REST APIs, Entity Framework
-- **Database:** SQL Server • Postgres
-- **Frontend:** React • Vue.js • JavaScript • TypeScript • HTML5 • CSS3 • Bootstrap  
-- **Tools & DevOps:** Azure • Docker • Git • Github Actions
+---
 
-## 🏗️ What I do
+## 🔨 Featured Work
 
-- 🧩 Design scalable backend systems using .NET
-- 💡 Build clean, modular architectures for long-term maintainability
-- 🎨 Develop responsive, modern UIs with React/Vue
-- 🧪 Write unit & integration tests
-- 📦 Containerize apps and configure GitHub Actions
-- 🤝 Collaborate with global cross-functional teams
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/AIAgent">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=AIAgent&theme=tokyonight&hide_border=true" alt="AIAgent"/>
+</a>
+<p>An <b>AI agent written from scratch in C#</b> — the tool-calling loop, message history, and control flow, with no framework in the way.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/DoctorAppointmentSystem">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=DoctorAppointmentSystem&theme=tokyonight&hide_border=true" alt="DoctorAppointmentSystem"/>
+</a>
+<p>Multi-hospital appointment Web API built around <b>concurrency control and throughput</b> — contention, idempotent booking, load-tested endpoints.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/WalStore">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=WalStore&theme=tokyonight&hide_border=true" alt="WalStore"/>
+</a>
+<p>A <b>write-ahead log</b> in .NET from first principles — append-only durability, crash recovery, replay.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/UrlShortener">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=UrlShortener&theme=tokyonight&hide_border=true" alt="UrlShortener"/>
+</a>
+<p>Classic system-design build: key generation, collision handling, and fast redirects.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/OAuth-2.0">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=OAuth-2.0&theme=tokyonight&hide_border=true" alt="OAuth 2.0"/>
+</a>
+<p>End-to-end OAuth 2.0 flow in ASP.NET, consented against real Google Drive scopes.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/gitcseme/sort-visualizer">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=sort-visualizer&theme=tokyonight&hide_border=true" alt="sort-visualizer"/>
+</a>
+<p>Interactive TypeScript visualizer for sorting and graph-traversal algorithms — watch the algorithm run, step by step.</p>
+</td>
+</tr>
+</table>
 
-## ✍️ My Blogs
+<sub>Also: <a href="https://github.com/gitcseme/TestContainers">TestContainers</a> (Docker-backed integration tests) · <a href="https://github.com/gitcseme/expense-manager">expense-manager</a> (Vue + .NET) · <a href="https://github.com/gitcseme/Design-Patterns">Design-Patterns</a> · <a href="https://github.com/gitcseme/leetCode">leetCode</a></sub>
 
-- 📝 [Garbage Collector](https://ms-dot-net.hashnode.dev/garbage-collector) - Understanding .NET garbage collection
-- 📝 [Design a Rate Limiter](https://core-system-d.hashnode.dev/design-a-rate-limiter) - System design
-- 📝 [Rate Limiting](https://core-system-d.hashnode.dev/rate-limiting) - Rate limiting algorithms
-- 📝 [Docker-powered .NET Integration Tests with TestContainers](https://vivasoftltd.com/docker-powered-dot-net-integration-tests-with-testcontainers/) - Smooth, safe integration test with Test Containers
+---
 
-## 📊 Github Highlights
+## ⚙️ Stack
 
-<!-- ![Shuvo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitcseme&show_icons=true&theme=tokyonight) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcseme&layout=compact&theme=tokyonight)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,vue,ts,js,postgres,azure,docker,githubactions,git&theme=dark)](https://skillicons.dev)
+&nbsp;
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gitcseme&theme=tokyonight)
+`ASP.NET Core` · `Entity Framework Core` · `REST` · `SQL Server` · `PostgreSQL` · `xUnit` · `TestContainers` · `Azure` · `Docker` · `GitHub Actions`
 
-![Shuvo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitcseme&theme=tokyo-night)
+**AI toolchain** — `Claude Code` · `Claude API` · `MCP` · `agentic workflows` · `AI-assisted refactoring & test generation`
 
+---
 
+## 📈 Activity
 
-## Let's Connect
+<p>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=gitcseme&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gitcseme&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvo806/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/uvshuvo2018/)
+<p>
+  <img height="165" src="https://streak-stats.demolab.com/?user=gitcseme&hide_border=true&theme=tokyonight" alt="Contribution streak"/>
+</p>
 
+<img src="https://ghchart.rshah.org/7aa2f7/gitcseme" alt="Contribution chart" width="100%"/>
 
-<!-- 
-## GitHub Stats
+---
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gitcseme&show_icons=true&hide_border=true&theme=cobalt" />
+## ✍️ Writing
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcseme&theme=cobalt&layout=compact)](https://github.com/gitcseme)
--->
+- [**Docker-powered .NET Integration Tests with TestContainers**](https://vivasoftltd.com/docker-powered-dot-net-integration-tests-with-testcontainers/) — real dependencies, disposable containers, no shared test DB.
+- [**Garbage Collector**](https://ms-dot-net.hashnode.dev/garbage-collector) — how .NET actually reclaims memory.
+- [**Design a Rate Limiter**](https://core-system-d.hashnode.dev/design-a-rate-limiter) — a full system-design walkthrough.
+- [**Rate Limiting**](https://core-system-d.hashnode.dev/rate-limiting) — the algorithms and their trade-offs.
+
+---
+
+## 💼 Experience
+
+<p align="center">
+  <img src="./assets/experience.svg" alt="Experience timeline" width="100%"/>
+</p>
+<p align="center">
+  <sub><b>5 yrs 4 mos</b> · Currently <b>Senior Software Engineer</b> @ Cefalo</sub>
+</p>
+
+---
+
+<p align="center">
+  Open to talking .NET internals, system design, and building with agents.<br/>
+  <a href="https://www.linkedin.com/in/shuvo806/"><b>Reach me on LinkedIn →</b></a>
+</p>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Career timeline: Enkaizen 2021-2022, Dynamic Solution Innovators 2022-2024, Vivasoft Limited 2024-2025, Cefalo 2026-present">
+  <defs>
+    <linearGradient id="gEnk" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a385e0"/><stop offset="100%" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="gDsi" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4fb6e8"/><stop offset="100%" stop-color="#7dcfff"/></linearGradient>
+    <linearGradient id="gViv" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7fb84e"/><stop offset="100%" stop-color="#9ece6a"/></linearGradient>
+    <linearGradient id="gCef" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#5b8ce8"/><stop offset="100%" stop-color="#7aa2f7"/></linearGradient>
+    <clipPath id="track"><rect x="45" y="88" width="870" height="30" rx="15"/></clipPath>
+    <style>
+      .co  { font-size:15px; font-weight:700; }
+      .rng { font-size:11px; fill:#8b949e; letter-spacing:.3px; }
+      .yr  { font-size:11px; fill:#8b949e; }
+      .lnk { stroke:#8b949e; stroke-opacity:.45; stroke-width:1.5; }
+      .now { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:.35 } }
+    </style>
+  </defs>
+
+  <!-- ============ segments (one connected track) ============ -->
+  <g clip-path="url(#track)">
+    <rect x="45"    y="88" width="190.3" height="30" fill="url(#gEnk)"/>
+    <rect x="235.3" y="88" width="244.7" height="30" fill="url(#gDsi)"/>
+    <rect x="480"   y="88" width="326.3" height="30" fill="url(#gViv)"/>
+    <rect x="806.3" y="88" width="108.7" height="30" fill="url(#gCef)"/>
+    <g stroke="#8b949e" stroke-width="2.5" stroke-opacity=".55">
+      <line x1="235.3" y1="88" x2="235.3" y2="118"/>
+      <line x1="480"   y1="88" x2="480"   y2="118"/>
+      <line x1="806.3" y1="88" x2="806.3" y2="118"/>
+    </g>
+  </g>
+  <circle cx="905" cy="103" r="5" fill="#c0d4ff" class="now"/>
+
+  <!-- ============ labels above ============ -->
+  <g text-anchor="middle">
+    <text class="co" x="140" y="44" fill="#8b5cf6">Enkaizen</text>
+    <text class="rng" x="140" y="62">May 2021 — Jul 2022 · 1 yr 3 mos</text>
+    <line class="lnk" x1="140" y1="72" x2="140" y2="88"/>
+
+    <text class="co" x="643" y="44" fill="#5f9130">Vivasoft Limited</text>
+    <text class="rng" x="643" y="62">Jan 2024 — Dec 2025 · 2 yrs</text>
+    <line class="lnk" x1="643" y1="72" x2="643" y2="88"/>
+  </g>
+
+  <!-- ============ labels below ============ -->
+  <g text-anchor="middle">
+    <line class="lnk" x1="358" y1="118" x2="358" y2="134"/>
+    <text class="co" x="358" y="152" fill="#1f8ec0">Dynamic Solution Innovators</text>
+    <text class="rng" x="358" y="170">Jul 2022 — Jan 2024 · 1 yr 7 mos</text>
+
+    <line class="lnk" x1="860" y1="118" x2="860" y2="134"/>
+    <text class="co" x="855" y="152" fill="#4a7fd8">Cefalo</text>
+    <text class="rng" x="855" y="170">Jan 2026 — Present · 9 mos</text>
+  </g>
+
+  <!-- ============ year axis ============ -->
+  <line x1="45" y1="200" x2="915" y2="200" stroke="#8b949e" stroke-opacity=".25"/>
+  <g class="yr" text-anchor="middle">
+    <line x1="45"    y1="196" x2="45"    y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="45"    y="220">2021</text>
+    <line x1="153.8" y1="196" x2="153.8" y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="153.8" y="220">2022</text>
+    <line x1="316.9" y1="196" x2="316.9" y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="316.9" y="220">2023</text>
+    <line x1="480"   y1="196" x2="480"   y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="480"   y="220">2024</text>
+    <line x1="643.1" y1="196" x2="643.1" y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="643.1" y="220">2025</text>
+    <line x1="806.3" y1="196" x2="806.3" y2="204" stroke="#8b949e" stroke-opacity=".4"/><text x="806.3" y="220">2026</text>
+  </g>
+</svg>
