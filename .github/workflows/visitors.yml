@@ -14,12 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # Diagnostic: prints only the NAMES of secrets visible to this workflow.
+      # Diagnostic: prints only the NAMES of secrets/variables visible here.
       # Values are masked by Actions. Remove this step once the badge works.
-      - name: Which secrets are visible?
+      - name: What is visible to this workflow?
         env:
           ALL_SECRETS: ${{ toJSON(secrets) }}
-        run: echo "$ALL_SECRETS" | jq -r 'keys[]' || echo "(no secrets visible)"
+          ALL_VARS: ${{ toJSON(vars) }}
+        run: |
+          echo "secrets:   $(echo "$ALL_SECRETS" | jq -rc 'keys')"
+          echo "variables: $(echo "$ALL_VARS"    | jq -rc 'keys')"
+          echo "repo:      $GITHUB_REPOSITORY"
 
       # The traffic API requires "Administration: read", which the built-in
       # GITHUB_TOKEN cannot be granted, so a PAT is required. See README.
