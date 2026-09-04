@@ -12,24 +12,31 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      # The traffic API requires the "Administration: read" permission, which the
-      # built-in GITHUB_TOKEN cannot be granted (it is not a valid scope in the
-      # workflow `permissions:` block). A PAT is therefore required. See README.
-      - name: Check token
-        run: |
-          if [ -z "${{ secrets.TRAFFIC_TOKEN }}" ]; then
-            echo "::error::Secret TRAFFIC_TOKEN is not set. Create a fine-grained PAT with"
-            echo "::error::'Administration: Read-only' on this repo and add it as TRAFFIC_TOKEN."
-            exit 1
-          fi
+      # Diagnostic: prints only the NAMES of secrets visible to this workflow.
+      # Values are masked by Actions. Remove this step once the badge works.
+      - name: Which secrets are visible?
+        env:
+          ALL_SECRETS: ${{ toJSON(secrets) }}
+        run: echo "$ALL_SECRETS" | jq -r 'keys[]' || echo "(no secrets visible)"
 
+      # The traffic API requires "Administration: read", which the built-in
+      # GITHUB_TOKEN cannot be granted, so a PAT is required. See README.
       - name: Fetch traffic + accumulate unique visitors
         env:
           GH_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
         run: |
           set -euo pipefail
+
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "::error::TRAFFIC_TOKEN resolved to an empty string."
+            echo "::error::It must be a *Repository* secret under Settings ->"
+            echo "::error::Secrets and variables -> Actions (not Codespaces,"
+            echo "::error::not Dependabot, not an Environment secret)."
+            exit 1
+          fi
+
           gh api "repos/${GITHUB_REPOSITORY}/traffic/views" > /tmp/views.json
 
           # history.json keeps one row per calendar day, so counts survive

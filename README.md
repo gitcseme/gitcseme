@@ -18,57 +18,6 @@ Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮�
 
 ---
 
-## 🔨 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/AIAgent">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=AIAgent&theme=tokyonight&hide_border=true" alt="AIAgent"/>
-</a>
-<p>An <b>AI agent written from scratch in C#</b> — the tool-calling loop, message history, and control flow, with no framework in the way.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/DoctorAppointmentSystem">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=DoctorAppointmentSystem&theme=tokyonight&hide_border=true" alt="DoctorAppointmentSystem"/>
-</a>
-<p>Multi-hospital appointment Web API built around <b>concurrency control and throughput</b> — contention, idempotent booking, load-tested endpoints.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/WalStore">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=WalStore&theme=tokyonight&hide_border=true" alt="WalStore"/>
-</a>
-<p>A <b>write-ahead log</b> in .NET from first principles — append-only durability, crash recovery, replay.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/UrlShortener">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=UrlShortener&theme=tokyonight&hide_border=true" alt="UrlShortener"/>
-</a>
-<p>Classic system-design build: key generation, collision handling, and fast redirects.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/OAuth-2.0">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=OAuth-2.0&theme=tokyonight&hide_border=true" alt="OAuth 2.0"/>
-</a>
-<p>End-to-end OAuth 2.0 flow in ASP.NET, consented against real Google Drive scopes.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gitcseme/sort-visualizer">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=gitcseme&repo=sort-visualizer&theme=tokyonight&hide_border=true" alt="sort-visualizer"/>
-</a>
-<p>Interactive TypeScript visualizer for sorting and graph-traversal algorithms — watch the algorithm run, step by step.</p>
-</td>
-</tr>
-</table>
-
-<sub>Also: <a href="https://github.com/gitcseme/TestContainers">TestContainers</a> (Docker-backed integration tests) · <a href="https://github.com/gitcseme/expense-manager">expense-manager</a> (Vue + .NET) · <a href="https://github.com/gitcseme/Design-Patterns">Design-Patterns</a> · <a href="https://github.com/gitcseme/leetCode">leetCode</a></sub>
-
----
-
 ## ⚙️ Stack
 
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,vue,ts,js,postgres,azure,docker,githubactions,git&theme=dark)](https://skillicons.dev)
@@ -91,8 +40,6 @@ Shipped for teams in 🇮🇹 Italy · 🇺🇸 USA · 🇸🇪 Sweden · 🇮�
 <p>
   <img height="165" src="https://streak-stats.demolab.com/?user=gitcseme&hide_border=true&theme=tokyonight" alt="Contribution streak"/>
 </p>
-
-<img src="https://ghchart.rshah.org/7aa2f7/gitcseme" alt="Contribution chart" width="100%"/>
 
 ---
 
